@@ -1,3 +1,17 @@
 h1{
-  color:orange;
+  color:#f26516;
+  font-weight:bold;
+  text-align:center;
+  border:2px solid green;
+  background-color:firebrick;
+  font-size:50px;
+}
+body{
+  display:inline-block;
+  border:1px solid red;
+  width:100%;
+  font-size:25px;
+}
+img{
+  width:100%;
 }
