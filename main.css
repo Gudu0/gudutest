@@ -15,3 +15,9 @@ body{
 img{
   width:100%;
 }
+p.center{
+  text-align:center;
+}
+p.right{
+  text-align:right;
+}
