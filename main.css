@@ -22,7 +22,6 @@ body{
   width:100%;
   font-size:25px;
   padding:10px;
-  font-family:"open-sans";
 }
 img{
   width:60%;
@@ -30,6 +29,7 @@ img{
 }
 html{
   width:100%;
+  font-family:"open-sans";
 }
 .handlee-regular {
   font-family: "Handlee", cursive;
