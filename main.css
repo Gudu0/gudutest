@@ -22,6 +22,9 @@ img{
   width:60%;
   margin:auto;
 }
+p.liscense{
+  border:1px dashed green;
+}
 .handlee-regular {
   font-family: "Handlee", cursive;
   font-weight: 400;
