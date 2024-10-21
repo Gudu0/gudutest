@@ -24,6 +24,7 @@ img{
 }
 p.liscense{
   border:1px dashed green;
+  width:max-content; /*thanks code2go*/
 }
 .handlee-regular {
   font-family: "Handlee", cursive;
