@@ -40,7 +40,7 @@ p.liscense{
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
-}
+/* }
 h1{
   position:relative;
 }
@@ -77,3 +77,4 @@ h1::before{
     --angle:360deg;
   }
 }
+ */
