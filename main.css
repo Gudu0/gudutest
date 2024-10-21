@@ -1,11 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
-p{
-  display:inline-block;
-  width:100%;
-}
-h1{
+h1.mainhead{
   color:#f26516;
   font-weight:bold;
   text-align:center;
@@ -17,7 +13,6 @@ h1{
   margin-right:0;
 }
 body{
-  display:inline-block;
   border:1px solid red;
   width:100%;
   font-size:25px;
@@ -26,10 +21,6 @@ body{
 img{
   width:60%;
   margin:auto;
-}
-html{
-  width:100%;
-  font-family:"open-sans";
 }
 .handlee-regular {
   font-family: "Handlee", cursive;
