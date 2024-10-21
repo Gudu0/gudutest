@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
+html{
+  background-color:slategrey;
+}
 h1.mainhead{
   color:#f26516;
   font-weight:bold;
