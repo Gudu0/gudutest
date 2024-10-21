@@ -41,4 +41,23 @@ p.liscense{
   font-variation-settings:
     "wdth" 100;
 }
-
+.mainhead{
+  position:relative;
+}
+.mainhead::after, .mainhead::before{
+  content:'';
+  position:absoulte;
+  height:100%;
+  width:100%;
+  background-image:conic-gradient(red,blue,orange,green,red);
+  top:50%;
+  left:50%;
+  translate:-50% -50%;
+  z-index:-1;
+  padding:3px;
+  border-radius:10px;
+}
+.mainhead::before{
+  filter:blur(1.5rem);
+  opacity:0.5;
+}
