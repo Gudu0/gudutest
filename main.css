@@ -10,10 +10,6 @@ h1{
   text-align:center;
   background-color:#ECE2D0;
   font-size:50px;
-/*margin-bottom:2px;
-  margin-top:0;
-  margin-left:0;
-  margin-right:0; */
 }
 body{
   border:1px solid red;
@@ -21,7 +17,7 @@ body{
   font-size:25px;
   padding:10px;
 }
-img{
+.bigmg{
   width:60%;
   margin:auto;
 }
@@ -40,41 +36,3 @@ p.liscense{
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
-/* }
-h1{
-  position:relative;
-}
-
-@property --angle{
-  syntax:"<angle>";
-  inital-value:0deg;
-  inherits:false;
-}
-h1::after, h1::before{
-  --angle: 0deg;
-  content:'';
-  position:absoulte;
-  height:100%;
-  width:100%;
-  background-image:conic-gradient(from var(--angle), transparent 70%, blue);
-  top:50%;
-  left:50%;
-  translate:-50% -50%;
-  z-index:-1;
-  padding:3px;
-  border-radius:10px;
-  animation:3s spin linear infinite;
-}
-h1::before{
-  filter:blur(1.5rem);
-  opacity:0.5;
-}
-@keyframes spin{
-  from{
-    --angle:0deg;
-  }
-  to{
-    --angle:360deg;
-  }
-}
- */
