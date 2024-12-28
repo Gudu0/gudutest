@@ -23,6 +23,7 @@ body{
 }
 .ani{
   float:right;
+  decoration:none;
 }
 p.liscense{
   border:1px dashed green;
