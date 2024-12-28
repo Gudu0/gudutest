@@ -21,6 +21,9 @@ body{
   width:60%;
   margin:auto;
 }
+.ani{
+  float:right;
+}
 p.liscense{
   border:1px dashed green;
 }
