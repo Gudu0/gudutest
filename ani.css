@@ -1,11 +1,11 @@
-html{
-  background-color:#f3971c;
+body {
+  background-color: #f3971c;
 }
-.pagetitle{
+.pagetitle {
   text-align:center;
   font-size:40px;
 }
-.pagedesc{
+.pagedesc {
   text-align:center;
   font-size:30px;
 }
