@@ -1,1 +1,11 @@
-
+body{
+  background-color:#f3971c;
+}
+.pagetitle{
+  text-align:center;
+  font-size:40px;
+}
+.pagedesc{
+  text-align:center;
+  font-size:30px;
+}
