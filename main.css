@@ -3,12 +3,11 @@
 
 html, body{
   overflow-x:hidden;
-  max-width:100%;
+  max-width:1439px;
 }
 html{
   overflow-y:scroll;
   scrollbar-width:none;
-  width:1420px;
 }
 body{
   border:1px solid red;
