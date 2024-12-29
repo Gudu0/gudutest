@@ -3,6 +3,7 @@
 
 html{
   background-color:darkgrey;
+  overflow-x:hidden;
 }
 h1{
   color:#f26516;
@@ -16,6 +17,7 @@ body{
   width:100%;
   font-size:25px;
   padding:10px;
+  overflow-x:hidden;
 }
 .bigmg{
   width:60%;
