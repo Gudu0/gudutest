@@ -8,6 +8,7 @@ html, body{
 html{
   overflow-y:scroll;
   scrollbar-width:none;
+  width:1420px;
 }
 body{
   border:1px solid red;
