@@ -5,6 +5,10 @@ html, body{
   overflow-x:hidden;
   max-width:100%;
 }
+html{
+  overflow-y:scroll;
+  scrollbar-width:none;
+}
 body{
   border:1px solid red;
   width:100%;
