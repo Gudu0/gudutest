@@ -1,9 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
-html{
-  background-color:darkgrey;
+html, body{
   overflow-x:hidden;
+  max-width:100%;
+}
+body{
+  border:1px solid red;
+  width:100%;
+  font-size:25px;
+  padding:10px;
+  background-color:darkgrey;
 }
 h1{
   color:#f26516;
@@ -11,13 +18,6 @@ h1{
   text-align:center;
   background-color:#ECE2D0;
   font-size:50px;
-}
-body{
-  border:1px solid red;
-  width:100%;
-  font-size:25px;
-  padding:10px;
-  overflow-x:hidden;
 }
 .bigmg{
   width:60%;
@@ -43,4 +43,3 @@ p.liscense{
   font-variation-settings:
     "wdth" 100;
 }
-/*Rebuild pls*/
