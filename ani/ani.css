@@ -1,5 +1,6 @@
 body {
   background-color: #f3971c;
+  border:1px solid red;
 }
 .pagetitle {
   text-align:center;
