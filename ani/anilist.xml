@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="anilist.xsl"?>
 <myanimelist>
-<!--  Not useful  -->
-<!-- 	<myinfo>
-		<user_export_type>1</user_export_type>
-	</myinfo> -->
 	<anime>
 		<series_animedb_id>10020</series_animedb_id>
 		<my_watched_episodes>0</my_watched_episodes>
